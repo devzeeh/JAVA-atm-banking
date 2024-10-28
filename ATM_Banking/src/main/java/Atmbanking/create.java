@@ -21,7 +21,7 @@ String actname, actuname, actpin, actconpin, name, username, actbal;//
 String driver = "com.mysql.cj.jdbc.Driver";
 String uname = "root";
 String pass = "";
-String dbaseHost = "jdbc:mysql://localhost/banking1a";
+String dbaseHost = "jdbc:mysql://localhost/";
     /**
      * Creates new form create
      */
