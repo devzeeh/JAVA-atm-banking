@@ -4,7 +4,8 @@
 **Tech stack and tools:**
 * JAVA
 * MYSQL
-* NETBEANS
+* NetBeans IDE
 
+---
 
-<h3>This project is still Under Development</h3>
+# This project has been abandoned
