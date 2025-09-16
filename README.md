@@ -1,11 +1,18 @@
 # ATM BANKING
-<!--ATM Banking using Java Gui in Netbeans IDE. ATM Banking allow basic ATM Function such as Withdraw, Transfer, Deposit, Check balance. it use **CRUD**.-->
 
-**Tech stack and tools:**
-* JAVA
-* MYSQL
-* NetBeans IDE
+A simple ATM banking application built with Java GUI in NetBeans IDE. This project demonstrates basic ATM functionalities and CRUD operations, connected to a MySQL database.
+
+## Features
+- Withdraw funds
+- Transfer between accounts
+- Deposit money
+- Check account balance
+
+## Technologies Used
+- Java
+- MySQL
+- NetBeans IDE
 
 ---
 
-# This project has been abandoned
+**Note:** This project has been abandoned and is no longer maintained.
